@@ -1,0 +1,20 @@
+.button
+{
+    -fx-background-radius: 20;
+    -fx-background-color:  #36A264;
+}
+
+.button:hover
+{
+    -fx-background-radius: 20;
+    -fx-background-color: white;
+    -fx-border-color:  #36A264;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
+
+.button:pressed
+{
+    -fx-background-radius: 20;
+    -fx-background-color:  #36A264;
+}

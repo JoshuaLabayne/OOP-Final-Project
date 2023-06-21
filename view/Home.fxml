@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.HomeController">
+   <children>
+      <ImageView fitHeight="774.0" fitWidth="1382.0" layoutX="-8.0" layoutY="-6.0">
+         <image>
+            <Image url="@../../../2background.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="nextb" layoutX="586.0" layoutY="553.0" mnemonicParsing="false" onAction="#gotoproduct" prefHeight="35.0" prefWidth="200.0" stylesheets="@../styles/HomeButton.css" text="START SHOPPING!" textFill="#171717">
+         <font>
+            <Font name="Onyx" size="24.0" />
+         </font>
+      </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#434343" height="241.0" layoutX="382.0" layoutY="257.0" stroke="#2f2d2d" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="616.0">
+         <effect>
+            <DropShadow height="75.0" radius="37.0" width="75.0">
+               <color>
+                  <Color red="0.18431372940540314" green="0.1764705926179886" blue="0.1764705926179886" />
+               </color>
+            </DropShadow>
+         </effect></Rectangle>
+      <ImageView fitHeight="122.0" fitWidth="131.0" layoutX="625.0" layoutY="68.0" preserveRatio="true">
+         <image>
+            <Image url="@../../../shoerack%20MNL.png" />
+         </image>
+      </ImageView>
+      <Text fill="#ff7777" layoutX="473.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Who We Are?">
+         <font>
+            <Font name="Script MT Bold" size="75.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="415.0" layoutY="322.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  A shoe retail business created by four passionate individuals who share a deep love for footwear, offering a curated collection of fashion-forward footwear, blending design and quality.  Whether you're a trendsetter, an athlete, or someone who simply appreciates great shoes, we've got you covered . We welcome you to SHOERACK MNL and become part of our family, where your shoe journey begins." textAlignment="CENTER" wrappingWidth="553.705078125">
+         <font>
+            <Font name="Book Antiqua Bold Italic" size="20.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

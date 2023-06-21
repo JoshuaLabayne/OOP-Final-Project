@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ProductController">
+   <children>
+      <ImageView fitHeight="774.0" fitWidth="1382.0">
+         <image>
+            <Image url="@../../../OOP%20FINAL%20PROJECT%20PEG.png" />
+         </image>
+      </ImageView>
+      <ScrollPane hbarPolicy="ALWAYS" hmax="5.0" hvalue="2.4" layoutX="-4.0" layoutY="172.0" prefHeight="596.0" prefWidth="2230.0" style="-fx-background-color: #252422;" vbarPolicy="NEVER" vmax="3.0" vvalue="3.0">
+         <content>
+            <Pane prefHeight="613.0" prefWidth="4116.0" style="-fx-background-color: #252422;">
+               <children>
+                  <ImageView fitHeight="778.0" fitWidth="3250.0" layoutY="-56.0">
+                     <image>
+                        <Image url="@../../../OOP%20FINAL%20PROJECT%20PEG.png" />
+                     </image>
+                  </ImageView>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#b98d7c" height="254.0" layoutX="450.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#66c2b9" height="254.0" layoutX="110.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#36a264" height="254.0" layoutX="790.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#99999d" height="254.0" layoutX="1130.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#406b96" height="254.0" layoutX="1470.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#e09112" height="254.0" layoutX="1810.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#c0ab92" height="254.0" layoutX="2150.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#c1bbdd" height="254.0" layoutX="2490.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#99999d" height="254.0" layoutX="2830.0" layoutY="112.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-arc-width: 50; -fx-arc-height: 50;" width="300.0">
+                     <effect>
+                        <DropShadow height="75.0" radius="37.0" width="75.0">
+                           <color>
+                              <Color red="0.18421052396297455" green="0.17738790810108185" blue="0.17738790810108185" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                  </Rectangle>
+                  <AnchorPane layoutX="110.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Button fx:id="button1" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button1.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price1" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Text layoutX="31.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR FORCE 1 - FRIENDS " textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="88.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AND FAMILY">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#a6a6a6" layoutX="96.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NIKE X TIFFANY">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The upper is built of a premium Tiffany Blue nubuck upper, with a black leather Swoosh. The sockliner is in black leather and the tongue features Tiffany instead of the typical Nike tongue tag. The heel-tab features Tiffany &amp; Co hardware." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="450.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="36.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NIKE X FIVE NIGHTS AND FREDDY">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="80.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SB DUNK LOW -" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="60.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="FREDDY KRUEGER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button2" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button2.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price2" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The rareness of the Freddy Krueger SB Dunk isn’t the only thing that makes it special. Those who were following sneakers diligently in 2007, when the culture was still much more niche, will remember it being a hotly anticipated shoe." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="790.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="109.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="51.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JORDAN 4 - MANILA" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button3" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button3.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price3" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The premium application of materials and textures, combined with the highly limited geographic release, made these some of the most sought-after pairs in the international market ever released by the Jordan Brand." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="1130.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="86.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN X DIOR">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This classic take on the shoe that launched MJ's signature line looks right at home on your city's streets. Premium leather, the woven tongue label and a debossed Wings logo seal the deal." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button4" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button4.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price4" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Label fx:id="name4" layoutX="40.0" layoutY="54.0" text="JORDAN 1 HIGH - DIOR">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="1470.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="30.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN X TRAVIS X FRAGMENT">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="25.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JORDAN 1 LOW - TRAVIS &#10;SCOTT X FRAGMENT " textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="5.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The idea of a musician designing shoes was seen as a novelty, a chance to get a quick collectible that probably wouldn’t appreciate in value at all. Now, though, musicians sit front and center in terms of desirable kicks." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button5" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button5.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price5" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="1810.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="89.5" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="KOBE X BRUCE LEE">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The yellow and black design — complete with red scratch marks on the lateral forefoot — give the nod to Bruce Lee’s jumpsuit from his iconic film ‘Enter the Dragon.’" textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button6" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button6.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price6" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Label fx:id="name6" layoutX="50.0" layoutY="60.0" text="KOBE 5 - BRUCE LEE">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="2150.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Button fx:id="button7" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button7.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price7" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                        <Text layoutX="17.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JORDAN 1 LOW - REVERSE &#10;MOCHA " textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#a6a6a6" layoutX="77.5" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN X TRAVIS">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Crafted from a mix of suede and leather panels in neutral tones - Sail and Ridgerock - while some University red accents appear on the tongue label and embroidered logo on the heel." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="2490.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="77.5" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN X TRAVIS">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="52.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JORDAN 4 - TRAVIS &#10;PURPLE" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="88.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="104.5" strokeType="OUTSIDE" strokeWidth="0.0" text="Air Jordan 4 Travis Scott 'Purple Suede' Friends and Family. Purple suede upper with black netting, matte 'waffle' eyelets, and translucent grey outsole. Travis Scott and Cactus Jack branding on the heel tab, insole, and hang tag." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button8" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button8.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price8" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane layoutX="2830.0" layoutY="322.0" prefHeight="255.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 0 0 25 25;">
+                     <children>
+                        <Text fill="#a6a6a6" layoutX="86.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AIR JORDAN X DIOR">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="39.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JORDAN 1 LOW - DIOR" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fill="#514f4f" layoutX="26.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This classic take on the shoe that launched MJ's signature line looks right at home on your city's streets. Premium leather, the woven tongue label and a debossed Wings logo seal the deal." textAlignment="CENTER" wrappingWidth="248.705078125">
+                           <font>
+                              <Font name="Arial" size="11.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="button9" layoutX="62.0" layoutY="187.0" mnemonicParsing="false" onAction="#buy" prefHeight="36.0" prefWidth="177.0" stylesheets="@../styles/button9.css" text="| ADD TO CART" textAlignment="CENTER">
+                           <font>
+                              <Font name="Arial Black" size="12.0" />
+                           </font>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <graphic>
+                              <Label fx:id="price9" text="Label">
+                                 <font>
+                                    <Font name="Arial Black" size="12.0" />
+                                 </font>
+                              </Label>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                  <ImageView fx:id="img1" fitHeight="328.0" fitWidth="379.0" layoutX="91.0" layoutY="73.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../air%20force%201%20tiffany.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img2" fitHeight="340.0" fitWidth="340.0" layoutX="426.0" layoutY="72.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../nike%20sb%20dunk%20freddy%20krueger.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img3" fitHeight="328.0" fitWidth="379.0" layoutX="772.0" layoutY="81.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%204%20manila.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img4" fitHeight="328.0" fitWidth="379.0" layoutX="1109.0" layoutY="82.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%201%20high%20dior.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img5" fitHeight="328.0" fitWidth="379.0" layoutX="1450.0" layoutY="78.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%201%20low%20fragment.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img6" fitHeight="328.0" fitWidth="379.0" layoutX="1793.0" layoutY="78.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Zoom%20Kobe%205%20Bruce%20lee.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img7" fitHeight="322.0" fitWidth="322.0" layoutX="2134.0" layoutY="78.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%201%20travis%20reverse%20mocha.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img8" fitHeight="328.0" fitWidth="378.0" layoutX="2472.0" layoutY="78.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%204%20travis.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="img9" fitHeight="328.0" fitWidth="378.0" layoutX="2812.0" layoutY="76.0" preserveRatio="true" rotate="-20.0">
+                     <image>
+                        <Image url="@../../../Jordan%201%20low%20dior.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="name1" layoutX="1611.0" layoutY="633.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name2" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name3" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name4" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name5" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name6" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name7" layoutX="1631.0" layoutY="653.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name8" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+                  <Label fx:id="name9" layoutX="1621.0" layoutY="643.0" opacity="0.0" text="Label" />
+               </children>
+            </Pane>
+         </content>
+      </ScrollPane>
+      <ImageView fitHeight="73.0" fitWidth="77.0" layoutX="46.0" layoutY="25.0" preserveRatio="true">
+         <image>
+            <Image url="@../../../shoerack%20MNL.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="cartbutton" alignment="CENTER_RIGHT" layoutX="1216.0" layoutY="60.0" mnemonicParsing="false" onAction="#gotocart" prefHeight="28.0" prefWidth="117.0" stylesheets="@../styles/gotocart.css" text="GO TO CART" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Black" size="10.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" preserveRatio="true">
+               <image>
+                  <Image url="@../../../download.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Text fill="#e8dede" layoutX="125.0" layoutY="78.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SHOERACK MNL">
+         <font>
+            <Font name="Book Antiqua Bold" size="47.0" />
+         </font>
+      </Text>
+      <Button layoutX="1265.0" layoutY="30.0" mnemonicParsing="false" onAction="#gotologout" prefHeight="6.0" prefWidth="73.0" style="-fx-background-color: #252422;" text="| Log out" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="10.0" />
+         </font></Button>
+      <Text fill="WHITE" layoutX="1233.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hello!">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
